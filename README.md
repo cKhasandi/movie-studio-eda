@@ -37,5 +37,11 @@ Clone this repository to your local machine using git clone.
 Install the required Python packages listed in requirements.txt.
 Run the Jupyter Notebooks in the notebooks directory in sequential order.
 Explore the analysis findings, visualizations, and recommendations in the notebooks.
+
+Recommendations:
+1. Focus on producing movies in the following genres:  ['Documentary', 'Drama', 'Comedy']
+2. Ensure a balanced budget to maximize ROI.
+3. Invest in marketing and quality to boost critic reviews.
+
 Conclusion
 This EDA project provides valuable insights into the movie industry landscape, focusing on factors such as genre popularity, box office revenue, and budget considerations. The recommendations outlined in this analysis aim to guide Microsoft in their movie studio launch strategy, leveraging industry trends and audience preferences to maximize success.
