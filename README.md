@@ -45,3 +45,6 @@ Recommendations:
 
 Conclusion
 This EDA project provides valuable insights into the movie industry landscape, focusing on factors such as genre popularity, box office revenue, and budget considerations. The recommendations outlined in this analysis aim to guide Microsoft in their movie studio launch strategy, leveraging industry trends and audience preferences to maximize success.
+
+The presentation can be found here: [presentation.pdf](https://github.com/user-attachments/files/15526777/presentation.pdf)
+
